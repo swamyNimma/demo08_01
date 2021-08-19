@@ -1,0 +1,1 @@
+exports.mytext="testing node"
